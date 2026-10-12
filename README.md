@@ -19,10 +19,10 @@
 | 一 . [大模型](./task1-llm) | 1. 本地大模型部署（Ollama + 千问3） 
 |             | 2. 搭建智能体（Dify） 
 |             | 3. 通过 API 接入应用（CLI + Web）
-| 二 . YOLO | 1. ultralytics 训练 
+| 二 . [yolo](./yolo-project) | 1. ultralytics 训练 
 || 2. 实时推理部署
 || 3. 接入应用
-| 三 . Harness |  1. 启动 Ollama
+| 三 . [Harness](./harness)|  1. 启动 Ollama
 ---
 ## AI 使用说明
 
