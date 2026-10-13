@@ -48,8 +48,5 @@ Dify 设置 → 模型供应商 → Ollama：
 - Base URL：`http://host.docker.internal:11434`
 - 模型类型：对话模型
 
-## 详细文档
-
-- [Ollama 安装配置](./ollama-setup.md)
-- [Dify 部署指南](./dify-setup.md)
+## 附录
 - [踩坑记录](./troubleshooting.md)
